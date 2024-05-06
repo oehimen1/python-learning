@@ -80,7 +80,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715012433746</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="woskpace changed">
+      <option name="closed" value="true" />
+      <created>1715012824501</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715012824501</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Python Tutorial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python Tutorial" />
+    <MESSAGE value="woskpace changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="woskpace changed" />
   </component>
 </project>
